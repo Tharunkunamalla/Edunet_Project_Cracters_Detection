@@ -1,6 +1,6 @@
 # 🌟Edunet_Project_Cracters_Detection
 
-<img src="isro.svg" style="height: 40px, width: 40px">
+<img src="isro.svg" style="height: 25px, width: 25px">
 
 # Problem Statement:
 Accurate detection and classification of lunar and planetary craters play a crucial role in surface age estimation, geological mapping, and landing site selection for space missions. Traditional manual crater detection is labor-intensive, time-consuming, and prone to human error. Automated methods are necessary for processing the vast amounts of high-resolution imagery captured by modern satellites and rovers.
