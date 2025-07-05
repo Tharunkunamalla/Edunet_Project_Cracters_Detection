@@ -10,6 +10,7 @@ This project aims to develop a deep learning-based crater detection system using
 
 ## 📌 Objective
 This guide helps you run YOLOv5 object detection (e.g. crater detection) in **Google Colab**, step-by-step, including model loading, image inference, and result visualization.
+> Note : In this ive ignored `best.py` bcz it has more size().... so instead of best.pt, I have used Yolo's Pretranined model.... YOLOv5.pt
 
 ---
 
