@@ -1,1 +1,9 @@
 # Edunet_Project_Cracters_Detection
+# Problem Statement: Accurate detection and classification of lunar and planetary craters play a crucial role in surface age estimation, geological mapping, and landing site selection for space missions. Traditional manual crater detection is labor-intensive, time-consuming, and prone to human error. Automated methods are necessary for processing the vast amounts of high-resolution imagery captured by modern satellites and rovers.
+
+This project aims to develop a deep learning-based crater detection system using the YOLOv5 (You Only Look Once) object detection framework. The model is trained to detect and classify craters in planetary surface images, including those from Mars and the Moon, with high confidence and spatial precision. The goal is to automate the identification of craters and generate annotated outputs for further scientific analysis, improving the efficiency and accuracy of crater detection workflows.
+
+# Conclusion: 
+The implementation of the YOLOv5 object detection model successfully enabled the automated detection of craters in satellite imagery with high accuracy and confidence scores. By training on a curated dataset and running inference on unseen test images, the model was able to detect multiple craters per image, annotate them with bounding boxes, and output prediction labels and confidence values.
+
+The visual and textual results confirm the model's effectiveness in identifying craters of various sizes and shapes. This solution demonstrates the capability of deep learning to enhance planetary surface analysis and reduce manual annotation efforts. Future improvements may include integrating PSR (Permanently Shadowed Regions), TSR (Temporarily Shadowed Regions), and Sunlight region classification, expanding the model's applicability to landing site planning and lunar habitat studies.
