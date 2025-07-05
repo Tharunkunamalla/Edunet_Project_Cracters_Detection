@@ -147,4 +147,4 @@ The implementation of the YOLOv5 object detection model successfully enabled the
 
 The visual and textual results confirm the model's effectiveness in identifying craters of various sizes and shapes. This solution demonstrates the capability of deep learning to enhance planetary surface analysis and reduce manual annotation efforts. Future improvements may include integrating PSR (Permanently Shadowed Regions), TSR (Temporarily Shadowed Regions), and Sunlight region classification, expanding the model's applicability to landing site planning and lunar habitat studies.
 <hr>
-<img src="edunet.png"><img src="micro.png">
+<img src="edunet.png"><img src="microsoft.png">
