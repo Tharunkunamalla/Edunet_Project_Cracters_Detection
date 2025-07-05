@@ -139,7 +139,8 @@ Loops through and displays all result images.
 
 > Let me know if you want this as a Colab template too! ✊ shinzou wo sasageyo
 
-<hr>
+<hr> 
+
 # Conclusion: 
 The implementation of the YOLOv5 object detection model successfully enabled the automated detection of craters in satellite imagery with high accuracy and confidence scores. By training on a curated dataset and running inference on unseen test images, the model was able to detect multiple craters per image, annotate them with bounding boxes, and output prediction labels and confidence values.
 
