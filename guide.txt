@@ -1,1 +1,2 @@
-If any Error with Yolov5 model then you can download the best.pt from kaggle
+If any Error with Yolov5 model then you can download the best.pt from kaggle (https://www.kaggle.com/datasets/lincolnzh/martianlunar-crater-detection-dataset)
+Due to High Size we cant add it in the repo....
