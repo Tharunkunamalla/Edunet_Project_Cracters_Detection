@@ -43,10 +43,10 @@ Installs libraries required by YOLOv5.
 ### 🔹 Step 3: Upload Your Model & Test Images
 ```python
 from google.colab import files
-print("📤 Upload your best.pt")
+print("Upload your best.pt")
 model_upload = files.upload()
 
-print("📤 Upload your test zip")
+print("Upload your test zip")
 zip_upload = files.upload()
 ```
 Upload:
